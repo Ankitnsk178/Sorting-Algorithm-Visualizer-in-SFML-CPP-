@@ -1,1 +1,1 @@
-# Sorting-Algorithm-Visualizer-in-SFML-C-
+# Sorting Algorithm Visualizer in SFML C++
